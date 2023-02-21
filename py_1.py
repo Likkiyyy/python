@@ -21,3 +21,4 @@ while True:
             box3 -= i_num
         if box1 == 0 and box2 == 0 and box3 == 0:
             break
+
